@@ -6,7 +6,7 @@ springboot3.1.2  jdk17
 
 1、handel接口:匹配数据<br/>
 &emsp;参数解释:filterStr 匹配部分构件，不填则匹配全部<br/>
-&emsp;&emsp;&emsp;&emsp;&nbsp;file匹配附件 sheet1为构件数据，sheet2为建模数据 参考《示例.xlsx》文件
+&emsp;&emsp;&emsp;&emsp;&nbsp;file匹配附件 sheet1为构件数据，sheet2为建模数据 ~~参考《示例.xlsx》文件~~文件涉及数据，暂不提供
 
 2、handTableMapB:筛选建模表重复数据（遇到建模数据有重复可以使用筛选重复glId数据，注意筛选的是第二sheet页）
 
